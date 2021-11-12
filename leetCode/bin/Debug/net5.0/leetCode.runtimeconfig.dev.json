@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\RENEGADE\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\RENEGADE\\.nuget\\packages",
+      "D:\\ProgramFiles\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+    ]
+  }
+}
